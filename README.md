@@ -1,2 +1,2 @@
 # ControlWebApp
-SPWTCCD Web Application for device control and data aggregation.
+Web Application for device control and data aggregation.
